@@ -5,7 +5,7 @@ const router = express.Router()
 
 
 // endpoint GET que me permite traer todos los documentos de un tipo de colección.
-router.get('/todas', peliculas)
+router.get('/', peliculas)
 
 // endpoint GET que me permite traer un solo elemento por su id de una colección.
 router.get('/:id', peliculaID)

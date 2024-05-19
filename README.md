@@ -23,7 +23,7 @@ Project developed to practice backend concepts and logic:
 
 
 ## Installation
-To start the project, it is necessary to install all dependencies.
+To start the project, it is necessary to install all dependencies. The database IP is universally accessible at 0.0.0.0/0.
 
 >[!IMPORTANT]
 > Since there is no frontend, all requests need to be made using software that simulates it, such as INSOMNIA or POSTMAN.

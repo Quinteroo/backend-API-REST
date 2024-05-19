@@ -11,6 +11,8 @@ Project developed to practice backend concepts and logic:
 ## Technologies used
 - Node.js
 - javaScript
+- mongoDB
+- Insomnia
 
 ## Dependencies
 - Nodemon
